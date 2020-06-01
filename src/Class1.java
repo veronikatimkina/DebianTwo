@@ -1,5 +1,5 @@
 public class Class1 {
     public static void main(String[] args) {
-        System.out.println("Something new");
+        System.out.println("new");
     }
 }
