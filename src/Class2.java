@@ -1,5 +1,5 @@
 public class Class2 {
-    @Override
+    @Deprecated
     public String toString() {
         return super.toString();
     }
